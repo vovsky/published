@@ -1,11 +1,4 @@
-# Obsidian Notes
-
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+- [Dr. Jordan Peterson-  How to Best Guide Your Life Decisions and Path](Dr.%20Jordan%20Peterson-%20%20How%20to%20Best%20Guide%20Your%20Life%20Decisions%20and%20Path.md)
+- [Dr. Ellen Langer - Mind Control Health](Dr.%20Ellen%20Langer%20-%20Mind%20Control%20Health.md)
+- [Stop wasting evenings](Stop%20wasting%20evenings.md)
+- [The four pillars of healthy mind](The%20four%20pillars%20of%20healthy%20mind.md)

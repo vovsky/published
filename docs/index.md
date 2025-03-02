@@ -2,3 +2,4 @@
 - [Dr. Ellen Langer - Mind Control Health](Dr.%20Ellen%20Langer%20-%20Mind%20Control%20Health.md)
 - [Stop wasting evenings](Stop%20wasting%20evenings.md)
 - [The four pillars of healthy mind](The%20four%20pillars%20of%20healthy%20mind.md)
+- [I Invented a New Lucid Dreaming Technique And It Works!](I%20Invented%20a%20New%20Lucid%20Dreaming%20Technique%20And%20It%20Works!.md)

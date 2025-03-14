@@ -4,3 +4,4 @@
 - [The four pillars of healthy mind](The%20four%20pillars%20of%20healthy%20mind.md)
 - [I Invented a New Lucid Dreaming Technique And It Works!](I%20Invented%20a%20New%20Lucid%20Dreaming%20Technique%20And%20It%20Works!.md)
 - [I Gave Up Lucid Dreaming Techniques and Mastered Lucid Dreams](I%20Gave%20Up%20Lucid%20Dreaming%20Techniques%20and%20Mastered%20Lucid%20Dreams.md)
+- [Practical Guidelines & Actionable Advice from Dr. Joe Dispenza](Practical%20Guidelines%20&%20Actionable%20Advice%20from%20Dr.%20Joe%20Dispenza.md)

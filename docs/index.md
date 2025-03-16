@@ -5,3 +5,4 @@
 - [I Invented a New Lucid Dreaming Technique And It Works!](I%20Invented%20a%20New%20Lucid%20Dreaming%20Technique%20And%20It%20Works!.md)
 - [I Gave Up Lucid Dreaming Techniques and Mastered Lucid Dreams](I%20Gave%20Up%20Lucid%20Dreaming%20Techniques%20and%20Mastered%20Lucid%20Dreams.md)
 - [Practical Guidelines & Actionable Advice from Dr. Joe Dispenza](Practical%20Guidelines%20&%20Actionable%20Advice%20from%20Dr.%20Joe%20Dispenza.md)
+- [Tim Ferris - My Productivity Strategy to Reset, Get Unstuck, and Focus on the Right Things](Tim%20Ferris%20-%20My%20Productivity%20Strategy%20to%20Reset,%20Get%20Unstuck,%20and%20Focus%20on%20the%20Right%20Things.md)

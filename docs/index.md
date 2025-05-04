@@ -1,11 +1,23 @@
-- [Dr. Jordan Peterson-  How to Best Guide Your Life Decisions and Path](Dr.%20Jordan%20Peterson-%20%20How%20to%20Best%20Guide%20Your%20Life%20Decisions%20and%20Path.md)
-- [Dr. Ellen Langer - Mind Control Health](Dr.%20Ellen%20Langer%20-%20Mind%20Control%20Health.md)
-- [Stop wasting evenings](Stop%20wasting%20evenings.md)
-- [The four pillars of healthy mind](The%20four%20pillars%20of%20healthy%20mind.md)
-- [I Invented a New Lucid Dreaming Technique And It Works!](I%20Invented%20a%20New%20Lucid%20Dreaming%20Technique%20And%20It%20Works!.md)
-- [I Gave Up Lucid Dreaming Techniques and Mastered Lucid Dreams](I%20Gave%20Up%20Lucid%20Dreaming%20Techniques%20and%20Mastered%20Lucid%20Dreams.md)
-- [Practical Guidelines & Actionable Advice from Dr. Joe Dispenza](Practical%20Guidelines%20&%20Actionable%20Advice%20from%20Dr.%20Joe%20Dispenza.md)
-- [Tim Ferris - My Productivity Strategy to Reset, Get Unstuck, and Focus on the Right Things](Tim%20Ferris%20-%20My%20Productivity%20Strategy%20to%20Reset,%20Get%20Unstuck,%20and%20Focus%20on%20the%20Right%20Things.md)
-- [Reverse Goal Setting](Reverse%20Goal%20Setting.md)
-- Dispenza:
-	- [WRITE IT DOWN & The Universe Will Bring It To You - Joe Dispenza](WRITE%20IT%20DOWN%20&%20The%20Universe%20Will%20Bring%20It%20To%20You%20-%20Joe%20Dispenza.md)
+- **Dispenza**
+	- [[5 Reasons Your Joe Dispenza Meditations Aren't Working]]
+	- [[Morning Meditation Updated]]
+	- [[WRITE IT DOWN & The Universe Will Bring It To You - Joe Dispenza]]
+- **Health and science**
+	- [[Dr. Ellen Langer - Mind Control Health]]
+	- [[Dr. Jordan Peterson-  How to Best Guide Your Life Decisions and Path]]
+	- [[Practical Guidelines & Actionable Advice from Dr. Joe Dispenza]]
+	- [[The four pillars of healthy mind]]
+	- [[The Top 7 Ways to Boost Cognitive Function (according to science)]]
+- **Huberman**
+	- [[Talk to Yourself Like This]]
+- **Lucid dreaming**
+	- [[I Gave Up Lucid Dreaming Techniques and Mastered Lucid Dreams]]
+	- [[I Invented a New Lucid Dreaming Technique And It Works!]]
+	- [[Why You Never Realize You're Dreaming]]
+- **Meditation**
+	- [[3-2 Scanning the body]]
+	- [[6-7 no need for effort]]
+- **Productivity**
+	- [[Reverse Goal Setting]]
+	- [[Stop wasting evenings]]
+	- [[Tim Ferris - My Productivity Strategy to Reset, Get Unstuck, and Focus on the Right Things]]

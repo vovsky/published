@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **Dispenza**
 	- [[5 Reasons Your Joe Dispenza Meditations Aren't Working]]
+	- [[Eevning Meditation Updated]]
 	- [[Morning Meditation Updated]]
 	- [[WRITE IT DOWN & The Universe Will Bring It To You - Joe Dispenza]]
 - **Health and science**

@@ -1,26 +1,28 @@
 - **Dispenza**
-	- [[5 Reasons Your Joe Dispenza Meditations Aren't Working]]
-	- [[Eevning Meditation Updated]]
-	- [[Morning Meditation Updated]]
-	- [[WRITE IT DOWN & The Universe Will Bring It To You - Joe Dispenza]]
+	- [[2025-04-19 - WRITE IT DOWN & The Universe Will Bring It To You - Joe Dispenza]]
+	- [[2025-04-27 - 5 Reasons Your Joe Dispenza Meditations Aren't Working]]
+	- [[2025-05-04 - Morning Meditation Updated]]
+	- [[2025-05-07 - Evening Meditation Updated]]
+	- [[2025-05-14 - Practical Guidelines & Actionable Advice from Dr. Joe Dispenza]]
+	- [[2025-05-15 - 9 Things to Tell Yourself Every Morning]]
 - **Health and science**
-	- [[Dr. Ellen Langer - Mind Control Health]]
-	- [[Dr. Jordan Peterson-  How to Best Guide Your Life Decisions and Path]]
-	- [[Practical Guidelines & Actionable Advice from Dr. Joe Dispenza]]
-	- [[The four pillars of healthy mind]]
-	- [[The Top 7 Ways to Boost Cognitive Function (according to science)]]
+	- [[2025-02-08 - Dr. Ellen Langer - Mind Control Health]]
+	- [[2025-02-09 - Dr. Jordan Peterson-  How to Best Guide Your Life Decisions and Path]]
+	- [[2025-02-22 - The four pillars of healthy mind]]
+	- [[2025-05-04 - The Top 7 Ways to Boost Cognitive Function (according to science)]]
 - **Huberman**
-	- [[Talk to Yourself Like This]]
+	- [[2025-04-27 - Talk to Yourself Like This]]
 - **Lucid dreaming**
-	- [[I Gave Up Lucid Dreaming Techniques and Mastered Lucid Dreams]]
-	- [[I Invented a New Lucid Dreaming Technique And It Works!]]
-	- [[Why You Never Realize You're Dreaming]]
+	- [[2025-04-27 - Why You Never Realize You're Dreaming]]
+	- [[2025-05-02 - I Invented a New Lucid Dreaming Technique And It Works!]]
+	- [[2025-05-06 - I Gave Up Lucid Dreaming Techniques and Mastered Lucid Dreams]]
 - **Meditation**
-	- [[2-5 losing linear time]]
-	- [[3-2 Scanning the body]]
-	- [[6-7 no need for effort]]
+	- [[2025-05-04 - 6-7 no need for effort]]
+	- [[2025-05-05 - 2-5 losing linear time]]
+	- [[2025-05-18 - 3-2 Scanning the body]]
+- **Palienko**
+	- [[2025-05-15 - Техніки маніфестації]]
 - **Productivity**
-	- [[Reverse Goal Setting]]
-	- [[Stop wasting evenings]]
-	- [[Tim Ferris - My Productivity Strategy to Reset, Get Unstuck, and Focus on the Right Things]]
-
+	- [[2025-02-04 - Stop wasting evenings]]
+	- [[2025-03-19 - Reverse Goal Setting]]
+	- [[2025-04-16 - Tim Ferris - My Productivity Strategy to Reset, Get Unstuck, and Focus on the Right Things]]

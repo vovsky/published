@@ -5,9 +5,6 @@ date: 2025-05-15
 tags: [morning-routine, mindfulness, awareness, neuroscience, emotional-intelligence, self-worth, presence, dr-joe-dispenza]
 ---
 
-# 9 Things to Tell Yourself Every Morning  
-*by Dr. Joe Dispenza*
-
 ## Opening Thought
 
 "When you open your eyes each morning, you're not just waking up to a day. You're waking up to a field of infinite potential."

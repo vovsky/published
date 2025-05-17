@@ -1,5 +1,5 @@
 - **Dispenza**
-	- [[2025-04-19 - WRITE IT DOWN & The Universe Will Bring It To You - Joe Dispenza]]
+	- [[2025-04-19 - Change Your Life by Changing Your Energy]]
 	- [[2025-04-27 - 5 Reasons Your Joe Dispenza Meditations Aren't Working]]
 	- [[2025-05-04 - Morning Meditation Updated]]
 	- [[2025-05-07 - Evening Meditation Updated]]
@@ -17,12 +17,14 @@
 	- [[2025-05-02 - I Invented a New Lucid Dreaming Technique And It Works!]]
 	- [[2025-05-06 - I Gave Up Lucid Dreaming Techniques and Mastered Lucid Dreams]]
 - **Meditation**
+	- [[2025-04-18 - 3-2 Scanning the body]]
 	- [[2025-05-04 - 6-7 no need for effort]]
 	- [[2025-05-05 - 2-5 losing linear time]]
-	- [[2025-05-18 - 3-2 Scanning the body]]
+	- [[2025-05-17 - 14-7 Non-dual awereness]]
 - **Palienko**
 	- [[2025-05-15 - Техніки маніфестації]]
 - **Productivity**
 	- [[2025-02-04 - Stop wasting evenings]]
 	- [[2025-03-19 - Reverse Goal Setting]]
 	- [[2025-04-16 - Tim Ferris - My Productivity Strategy to Reset, Get Unstuck, and Focus on the Right Things]]
+

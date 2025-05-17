@@ -1,4 +1,4 @@
-# 8 things I did to stop wasting my evenings after work
+## 8 things I did to stop wasting my evenings after work
 
 ## Introduction [(00:00:00)](https://www.youtube.com/watch?v=xtGn6s7ljHk&t=0s)
 

@@ -1,4 +1,4 @@
-# Lucid Dreaming Techniques Mastered
+## Lucid Dreaming Techniques Mastered
 
 I gave up lucid dreaming techniques and mastered lucid dreams.
 

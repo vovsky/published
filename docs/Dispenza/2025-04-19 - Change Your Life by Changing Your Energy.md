@@ -1,6 +1,3 @@
-# Change Your Life by Changing Your Energy
-
-(Транскрибовано за допомогою TurboScribe.ai. Оновити до Необмеженого, щоб прибрати це повідомлення.)
 
 Let me just write down four thoughts that, like, I can't, it's too hard, I'll start tomorrow, this doesn't feel right, whatever it is. And how you think, how you act, and how you feel is your personality, and your personality is intimately connected to your personal reality, your life. So then if you want to change your life, your personal reality, you've got to change your personality.
 
@@ -83,5 +80,9 @@ The magnetism of this center becomes the energy. The intention is carried on tha
 When you lock into that frequency, if you keep revisiting that energetic signature over again every single day, then you don't have to go anywhere and get it. The new job finds you. The new house actually finds you.
 
 The new relationship finds you because you are the vortex that's drawing the experience to you.
+
+
+> [!NOTE] from
+> WRITE IT DOWN & The Universe Will Bring It To You - Joe Dispenza
 
 

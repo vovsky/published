@@ -1,4 +1,4 @@
-# Talk to Yourself Like This for 3 Days: Rewire Your Brain & Reset Your Mind (Dr. Andrew Huberman)
+## Talk to Yourself Like This for 3 Days: Rewire Your Brain & Reset Your Mind (Dr. Andrew Huberman)
 
 ## Chapter 1: The Power of Self-Talk
 

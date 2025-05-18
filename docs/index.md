@@ -27,4 +27,5 @@
 	- [[2025-02-04 - Stop wasting evenings]]
 	- [[2025-03-19 - Reverse Goal Setting]]
 	- [[2025-04-16 - Tim Ferris - My Productivity Strategy to Reset, Get Unstuck, and Focus on the Right Things]]
-
+- **Tim Ferriss**
+	- [[2025-05-18 Ketamine Experience]]

@@ -1,3 +1,4 @@
+%% Begin Waypoint %%
 - **Dispenza**
 	- [[2025-04-19 - Change Your Life by Changing Your Energy]]
 	- [[2025-04-27 - 5 Reasons Your Joe Dispenza Meditations Aren't Working]]
@@ -5,6 +6,8 @@
 	- [[2025-05-07 - Evening Meditation Updated]]
 	- [[2025-05-14 - Practical Guidelines & Actionable Advice from Dr. Joe Dispenza]]
 	- [[2025-05-15 - 9 Things to Tell Yourself Every Morning]]
+	- [[2025-05-26 Anonymous Practitioner - 60 Days Manifestation]]
+	- [[2025-06-17 - Introduction to Meditations]]
 - **Health and science**
 	- [[2025-02-08 - Dr. Ellen Langer - Mind Control Health]]
 	- [[2025-02-09 - Dr. Jordan Peterson-  How to Best Guide Your Life Decisions and Path]]
@@ -23,9 +26,15 @@
 	- [[2025-05-17 - 14-7 Non-dual awereness]]
 - **Palienko**
 	- [[2025-05-15 - Техніки маніфестації]]
+	- [[2025-05-25 - Інструкція максимальної ефективності]]
+	- [[2025-05-31 - Добре мислиш – добре живеш]]
+	- [[2025-06-05 - Перестати залежати від результату]]
 - **Productivity**
 	- [[2025-02-04 - Stop wasting evenings]]
 	- [[2025-03-19 - Reverse Goal Setting]]
 	- [[2025-04-16 - Tim Ferris - My Productivity Strategy to Reset, Get Unstuck, and Focus on the Right Things]]
 - **Tim Ferriss**
 	- [[2025-05-18 Ketamine Experience]]
+
+%% End Waypoint %%
+```

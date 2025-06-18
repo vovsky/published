@@ -6,7 +6,7 @@
 	- [[2025-05-07 - Evening Meditation Updated]]
 	- [[2025-05-14 - Practical Guidelines & Actionable Advice from Dr. Joe Dispenza]]
 	- [[2025-05-15 - 9 Things to Tell Yourself Every Morning]]
-	- [[2025-05-26 Anonymous Practitioner - 60 Days Manifestation]]
+	- [[2025-05-26 - Anonymous Practitioner - 60 Days Manifestation]]
 	- [[2025-06-17 - Introduction to Meditations]]
 - **Health and science**
 	- [[2025-02-08 - Dr. Ellen Langer - Mind Control Health]]
@@ -37,4 +37,4 @@
 	- [[2025-05-18 Ketamine Experience]]
 
 %% End Waypoint %%
-```
+

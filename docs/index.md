@@ -8,6 +8,7 @@
 	- [[2025-05-15 - 9 Things to Tell Yourself Every Morning]]
 	- [[2025-05-26 - Anonymous Practitioner - 60 Days Manifestation]]
 	- [[2025-06-17 - Introduction to Meditations]]
+	- [[2025-06-22 - 3 BIG mistakes I was making when practicing Dr Joe Dispenza’s work]]
 - **Health and science**
 	- [[2025-02-08 - Dr. Ellen Langer - Mind Control Health]]
 	- [[2025-02-09 - Dr. Jordan Peterson-  How to Best Guide Your Life Decisions and Path]]
@@ -37,4 +38,3 @@
 	- [[2025-05-18 Ketamine Experience]]
 
 %% End Waypoint %%
-

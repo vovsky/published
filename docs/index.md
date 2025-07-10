@@ -8,6 +8,7 @@
 	- [[2025-05-26 - Anonymous Practitioner - 60 Days Manifestation]]
 	- [[2025-06-17 - Introduction to Meditations]]
 	- [[2025-06-22 - 3 BIG mistakes I was making when practicing Dr Joe Dispenza’s work]]
+	- [[2025-07-10 - Joe Dispenza Meditation Mistakes]]
 - **Health and science**
 	- [[2025-02-08 - Dr. Ellen Langer - Mind Control Health]]
 	- [[2025-02-09 - Dr. Jordan Peterson-  How to Best Guide Your Life Decisions and Path]]

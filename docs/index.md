@@ -29,6 +29,7 @@
 	- [[2025-07-02 - Різні шляхи до однієї вершини, про віру, карму і методи практики]]
 	- [[2025-07-11 - 6 Love Experts Share Their Top Dating & Relationship Advice (Compilation Episode)]]
 	- [[2025-07-18 - 6 Love Experts Share Their Top Dating & Relationship Advice (Compilation Episode) 1]]
+	- [[2025-07-18 - 8 Brutal Truths for Strong Relationships]]
 - **Palienko**
 	- [[2025-05-15 - Техніки маніфестації]]
 	- [[2025-05-25 - Інструкція максимальної ефективності]]

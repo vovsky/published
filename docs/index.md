@@ -26,8 +26,9 @@
 	- [[2025-05-05 - 2-5 losing linear time]]
 	- [[2025-05-17 - 14-7 Non-dual awereness]]
 - **Misc**
-	- [[2025-07-02 Різні шляхи до однієї вершини, про віру, карму і методи практики]]
+	- [[2025-07-02 - Різні шляхи до однієї вершини, про віру, карму і методи практики]]
 	- [[2025-07-11 - 6 Love Experts Share Their Top Dating & Relationship Advice (Compilation Episode)]]
+	- [[2025-07-18 - 6 Love Experts Share Their Top Dating & Relationship Advice (Compilation Episode) 1]]
 - **Palienko**
 	- [[2025-05-15 - Техніки маніфестації]]
 	- [[2025-05-25 - Інструкція максимальної ефективності]]

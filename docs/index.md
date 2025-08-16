@@ -40,5 +40,7 @@
 	- [[2025-02-04 - Stop wasting evenings]]
 	- [[2025-03-19 - Reverse Goal Setting]]
 	- [[2025-04-16 - Tim Ferris - My Productivity Strategy to Reset, Get Unstuck, and Focus on the Right Things]]
+- **The Diary Of A CEO**
+	- [[2025-08-16 - Dr. Orion Taraban - Attract Women]]
 - **Tim Ferriss**
 	- [[2025-05-18 Ketamine Experience]]

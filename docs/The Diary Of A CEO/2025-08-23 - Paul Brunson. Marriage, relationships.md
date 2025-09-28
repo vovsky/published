@@ -1,0 +1,3 @@
+- too high expectations 
+- all people are compatible, it is matter of work you are willing to invest
+- we have countless options in todays societies  - not good for satisfaction, etc 

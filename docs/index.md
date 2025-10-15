@@ -33,6 +33,8 @@
 	- [[2025-07-18 - 6 Love Experts Share Their Top Dating & Relationship Advice (Compilation Episode) 1]]
 	- [[2025-07-18 - 8 Brutal Truths for Strong Relationships]]
 	- [[2025-08-29 - криза інтимності]]
+- **Mo Gawdat**
+	- [[2025-10-15 - Алгоритм щастя від Мо Гавдата]]
 - **Palienko**
 	- [[2025-05-15 - Техніки маніфестації]]
 	- [[2025-05-25 - Інструкція максимальної ефективності]]

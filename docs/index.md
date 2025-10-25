@@ -1,4 +1,3 @@
-%% Begin Waypoint %%
 - **Dispenza**
 	- [[2025-04-19 - Change Your Life by Changing Your Energy]]
 	- [[2025-04-27 - 5 Reasons Your Joe Dispenza Meditations Aren't Working]]
@@ -20,6 +19,7 @@
 	- [[2025-05-04 - The Top 7 Ways to Boost Cognitive Function (according to science)]]
 - **Huberman**
 	- [[2025-04-27 - Talk to Yourself Like This]]
+	- [[2025-10-25 - Rewiring your brain]]
 - **Lucid dreaming**
 	- [[2025-04-27 - Why You Never Realize You're Dreaming]]
 	- [[2025-05-02 - I Invented a New Lucid Dreaming Technique And It Works!]]
@@ -57,4 +57,3 @@
 	- [[2025-05-18 Ketamine Experience]]
 - **Психологія, медитація**
 
-%% End Waypoint %%
